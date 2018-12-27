@@ -1,3 +1,5 @@
+# Program prompts user to guess a number and returns feedback to improve the guess.
+
 import random
 
 def guess(guessNumber):
